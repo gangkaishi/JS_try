@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hello_world
 // @namespace    http://tampermonkey.net/
-// @version      2025-02-21
+// @version      2025-02-21 v0.1
 // @description  new script
 // @author       gangkaishi
 // @match        http://*/*
